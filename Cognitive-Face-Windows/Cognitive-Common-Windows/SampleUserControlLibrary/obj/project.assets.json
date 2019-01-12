@@ -1,0 +1,313 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Microsoft.Web.Xdt/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        }
+      },
+      "NuGet.Build/2.12.0": {
+        "type": "package",
+        "dependencies": {
+          "NuGet.CommandLine": "(, )"
+        }
+      },
+      "NuGet.CommandLine/1.0.11220.26": {
+        "type": "package"
+      },
+      "NuGet.Core/2.14.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Web.Xdt": "2.1.0"
+        },
+        "compile": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        }
+      },
+      "NuGet.Frameworks/4.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        },
+        "runtime": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "Microsoft.Web.Xdt/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        }
+      },
+      "NuGet.Build/2.12.0": {
+        "type": "package",
+        "dependencies": {
+          "NuGet.CommandLine": "(, )"
+        }
+      },
+      "NuGet.CommandLine/1.0.11220.26": {
+        "type": "package"
+      },
+      "NuGet.Core/2.14.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Web.Xdt": "2.1.0"
+        },
+        "compile": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        }
+      },
+      "NuGet.Frameworks/4.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        },
+        "runtime": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "Microsoft.Web.Xdt/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        }
+      },
+      "NuGet.Build/2.12.0": {
+        "type": "package",
+        "dependencies": {
+          "NuGet.CommandLine": "(, )"
+        }
+      },
+      "NuGet.CommandLine/1.0.11220.26": {
+        "type": "package"
+      },
+      "NuGet.Core/2.14.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Web.Xdt": "2.1.0"
+        },
+        "compile": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        }
+      },
+      "NuGet.Frameworks/4.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        },
+        "runtime": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "Microsoft.Web.Xdt/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Microsoft.Web.XmlTransform.dll": {}
+        }
+      },
+      "NuGet.Build/2.12.0": {
+        "type": "package",
+        "dependencies": {
+          "NuGet.CommandLine": "(, )"
+        }
+      },
+      "NuGet.CommandLine/1.0.11220.26": {
+        "type": "package"
+      },
+      "NuGet.Core/2.14.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Web.Xdt": "2.1.0"
+        },
+        "compile": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/NuGet.Core.dll": {}
+        }
+      },
+      "NuGet.Frameworks/4.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        },
+        "runtime": {
+          "lib/net40/NuGet.Frameworks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Web.Xdt/2.1.0": {
+      "sha512": "pQ23sJ99NiZRC6MnWa5jbXZiHo8R4dcPX3ou8YWTeBfkUX4++Olu0hGf64Zfzg1IEqituJXW+WskCflOGxzeTw==",
+      "type": "package",
+      "path": "microsoft.web.xdt/2.1.0",
+      "files": [
+        ".signature.p7s",
+        "lib/net40/Microsoft.Web.XmlTransform.dll",
+        "microsoft.web.xdt.2.1.0.nupkg.sha512",
+        "microsoft.web.xdt.nuspec"
+      ]
+    },
+    "NuGet.Build/2.12.0": {
+      "sha512": "8V9mevZoUdVxcMiuDWG86MJ9gz0AhDOETfYwLMdA68J0Olqaks0F2UL+9Bv3L7bA8rIbVQIjw+Nr7dxn3e5wGg==",
+      "type": "package",
+      "path": "nuget.build/2.12.0",
+      "files": [
+        ".signature.p7s",
+        "nuget.build.2.12.0.nupkg.sha512",
+        "nuget.build.nuspec",
+        "tools/NuGet.targets"
+      ]
+    },
+    "NuGet.CommandLine/1.0.11220.26": {
+      "sha512": "kVRibY+j9TLBiAM47VHxOrcJKXuKlP2tFV2Alwbl/CXwyeXLHRaHEyjVtJ0nffbqCoqWmy6TaLzaj7sfvv9h3w==",
+      "type": "package",
+      "path": "nuget.commandline/1.0.11220.26",
+      "files": [
+        ".signature.p7s",
+        "Tools/NuGet.exe",
+        "nuget.commandline.1.0.11220.26.nupkg.sha512",
+        "nuget.commandline.nuspec"
+      ]
+    },
+    "NuGet.Core/2.14.0": {
+      "sha512": "P0rzDBgODTRWyakVkB3evtofDcL6gfIXeJqluTwXARZWszJakmMOyrmnXf5E3ZflO6G9fxioGiwfov6mfgzXuQ==",
+      "type": "package",
+      "path": "nuget.core/2.14.0",
+      "files": [
+        ".signature.p7s",
+        "lib/net40-Client/NuGet.Core.dll",
+        "nuget.core.2.14.0.nupkg.sha512",
+        "nuget.core.nuspec"
+      ]
+    },
+    "NuGet.Frameworks/4.8.0": {
+      "sha512": "enbzfM4pYIqtU6fwP9EmiMYkWuUC1Q5O67q4sm1vMuCjPKEs8Bm8zg27VAxLpN9h47XEhIJXMj1eB0OZOTMviA==",
+      "type": "package",
+      "path": "nuget.frameworks/4.8.0",
+      "files": [
+        ".signature.p7s",
+        "lib/net40/NuGet.Frameworks.dll",
+        "lib/net40/NuGet.Frameworks.xml",
+        "lib/net46/NuGet.Frameworks.dll",
+        "lib/net46/NuGet.Frameworks.xml",
+        "lib/netstandard1.6/NuGet.Frameworks.dll",
+        "lib/netstandard1.6/NuGet.Frameworks.xml",
+        "nuget.frameworks.4.8.0.nupkg.sha512",
+        "nuget.frameworks.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "NuGet.Build >= 2.12.0",
+      "NuGet.Core >= 2.14.0",
+      "NuGet.Frameworks >= 4.8.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Minh Hoang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\study\\Project\\New pj\\Cognitive-Face-Windows\\Cognitive-Common-Windows\\SampleUserControlLibrary\\SampleUserControlLibrary.csproj",
+      "projectName": "SampleUserControlLibrary",
+      "projectPath": "F:\\study\\Project\\New pj\\Cognitive-Face-Windows\\Cognitive-Common-Windows\\SampleUserControlLibrary\\SampleUserControlLibrary.csproj",
+      "packagesPath": "C:\\Users\\Minh Hoang\\.nuget\\packages\\",
+      "outputPath": "F:\\study\\Project\\New pj\\Cognitive-Face-Windows\\Cognitive-Common-Windows\\SampleUserControlLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Minh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "NuGet.Build": {
+            "target": "Package",
+            "version": "[2.12.0, )"
+          },
+          "NuGet.Core": {
+            "target": "Package",
+            "version": "[2.14.0, )"
+          },
+          "NuGet.Frameworks": {
+            "target": "Package",
+            "version": "[4.8.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NuGet.Build 2.12.0 does not provide an inclusive lower bound for dependency NuGet.CommandLine. An approximate best match of NuGet.CommandLine 1.0.11220.26 was resolved.",
+      "libraryId": "NuGet.CommandLine",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5.2",
+        ".NETFramework,Version=v4.5.2/win",
+        ".NETFramework,Version=v4.5.2/win-x64",
+        ".NETFramework,Version=v4.5.2/win-x86"
+      ]
+    }
+  ]
+}

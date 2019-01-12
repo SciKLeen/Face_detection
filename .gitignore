@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Cognitive-Face-Windows/.vs
+/Cognitive-Face-Windows/Cognitive-Common-Windows/SampleUserControlLibrary/.vs/SampleUserControlLibrary/v15
+/Cognitive-Face-Windows/Sample-WPF/.vs

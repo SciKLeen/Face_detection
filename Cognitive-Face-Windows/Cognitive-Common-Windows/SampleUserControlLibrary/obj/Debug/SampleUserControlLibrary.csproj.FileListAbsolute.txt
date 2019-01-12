@@ -1,0 +1,40 @@
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.pdb
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csprojAssemblyReference.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.lref
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.g.resources
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.SampleUserControlLibrary.Properties.Resources.resources
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csproj.GenerateResource.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.pdb
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csprojAssemblyReference.cache
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.cache
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.lref
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.pdb
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csprojAssemblyReference.cache
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.g.cs
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.cache
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.lref
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.dll
+F:\study\Project\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.pdb
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csprojAssemblyReference.cache
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.cache
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.lref
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Cognitive-Common-Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.pdb

@@ -1,0 +1,261 @@
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.pdb
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojAssemblyReference.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CopyComplete
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Core.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.g.cs
+C:\Users\HiepDT\Source\Repos\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojAssemblyReference.cache
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGlassesDetectionPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceHairDetectionPage.g.cs
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGlassesDetectionPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Core.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.pdb
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceHairDetectionPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CopyComplete
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Common.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.XmlTransform.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Core.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.pdb
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojAssemblyReference.cache
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGlassesDetectionPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceHairDetectionPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceLipStickDetectionPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGlassesDetectionPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceHairDetectionPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceLipStickDetectionPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\App.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CopyComplete
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojFakesResolveAssemblyReference.cache
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\study\Project\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceiconDetectionPage.baml
+C:\Users\HiepDT\Downloads\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceiconDetectionPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Common.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Web.XmlTransform.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Core.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.dll
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.pdb
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.pdb
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\NuGet.Frameworks.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Extensions.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Net.Http.Primitives.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Helpers.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Mvc.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.Razor.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\bin\Debug\System.Web.WebPages.Razor.xml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojFakesResolveAssemblyReference.cache
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojAssemblyReference.cache
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceHairDetectionPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceiconDetectionPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceBearDetectionPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGlassesDetectionPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceHairDetectionPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceiconDetectionPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\App.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGlassesDetectionPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CopyComplete
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+F:\study\Project\New pj\Cognitive-Face-Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb

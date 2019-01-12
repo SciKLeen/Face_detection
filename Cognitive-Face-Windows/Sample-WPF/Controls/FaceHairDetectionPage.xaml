@@ -1,0 +1,62 @@
+﻿<Page x:Class="Microsoft.ProjectOxford.Face.Controls.FaceHairDetectionPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="360" d:DesignWidth="710" x:Name="FaceHairDetectionPane" MinHeight="360" Width="710" FontSize="14">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="96" />
+            <ColumnDefinition Width="314" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="54" />
+            <RowDefinition Height="45" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Left" Text="{Binding FaceBearDetectionDescription}" TextWrapping="Wrap"></TextBlock>
+        <Grid Width="300" Height="300" Grid.Column="0" Grid.Row="2" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="27*"/>
+                <ColumnDefinition Width="169*"/>
+                <ColumnDefinition Width="38*"/>
+                <ColumnDefinition Width="66*"/>
+            </Grid.ColumnDefinitions>
+            <ItemsControl HorizontalAlignment="Center" VerticalAlignment="Center" ItemsSource="{Binding ResultCollection, ElementName=FaceHairDetectionPane}" Panel.ZIndex="999" Height="{Binding MaxImageSizes, ElementName=FaceHairDetectionPane}" Width="{Binding MaxImageSizes, ElementName=FaceHairDetectionPane}" Margin="122.635,150,46,150" Grid.Column="1">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Height="{Binding MaxImageSizes, ElementName=FaceHairDetectionPane}" Width="{Binding MaxImageSizes, ElementName=FaceHairDetectionPane}" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemContainerStyle>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="{Binding Left}" />
+                        <Setter Property="Canvas.Top" Value="{Binding Top}" />
+                    </Style>
+                </ItemsControl.ItemContainerStyle>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Rectangle Width="{Binding Width}" Height="{Binding Height}" Stroke="#FF26B8F4" StrokeThickness="1" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            <Image HorizontalAlignment="Center" VerticalAlignment="Center" Height="{Binding MaxImageSizes, ElementName=FaceHairDetectionPane}" Width="{Binding MaxImageSizes, ElementName=FaceHairDetectionPane}" x:Name="ImageDisplay" Grid.ColumnSpan="4" >
+                <Image.Style>
+                    <Style TargetType="{x:Type Image}">
+                        <Setter Property="Source" Value="{Binding SelectedFile, ElementName=FaceHairDetectionPane}" />
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding SelectedFile, ElementName=FaceHairDetectionPane }" Value="{x:Null}">
+                                <Setter Property="Source" Value="/FaceAPI-WPF-Samples;component/Assets/default.jpg" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Image.Style>
+            </Image>
+        </Grid>
+        <Button Grid.Column="0" Grid.Row="1" Content="Choose Image" Width="300" Background="#2196f3" Foreground="White" BorderBrush="Transparent" HorizontalAlignment="Left" Click="Hair_Click" Height="35" VerticalAlignment="Top"/>
+        <TextBlock Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding DetectedResultsInText, ElementName=FaceHairDetectionPane}" />
+        <Image x:Name="ImageHairDisplay" Grid.Column="2" HorizontalAlignment="Left" Height="261" Grid.Row="2" VerticalAlignment="Top" Width="274"/>
+    </Grid>
+</Page>

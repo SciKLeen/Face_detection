@@ -1,0 +1,38 @@
+﻿<Page x:Class="Microsoft.ProjectOxford.Face.Controls.FaceLipStickDetectionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="FaceLipStickDetectionPage">
+
+    <Grid>
+        <Button Grid.Column="0" Content="Choose Image" Width="374" Background="#2196f3" Foreground="White" BorderBrush="Transparent" HorizontalAlignment="Left" Margin="74,49,0,327" Click="Image_Click" ClickMode="Press"/>
+        <Image x:Name="LipstickDisp" HorizontalAlignment="Center" VerticalAlignment="Center" Height="289" Width="257" Margin="74,128,469,33" >
+            <Image.Style>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="Source" Value="{Binding SelectedFile, ElementName=FaceLipstickDetectionPane}" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding SelectedFile, ElementName=FaceLipstickDetectionPane}" Value="{x:Null}">
+                            <Setter Property="Source" Value="/FaceAPI-WPF-Samples;component/Assets/default.jpg" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Image.Style>
+        </Image>
+        <Image x:Name="lipstickDisplay" HorizontalAlignment="Center" VerticalAlignment="Center" Height="253" Width="296" Margin="444,148,60,49" >
+            <Image.Style>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="Source" Value="{Binding SelectedFile, ElementName=FaceLipstick1DetectionPane}" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding SelectedFile, ElementName=FaceLipstick1DetectionPane}" Value="{x:Null}">
+                            <Setter Property="Source" Value="/FaceAPI-WPF-Samples;component/Assets/default.jpg" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Image.Style>
+        </Image>
+        <Label x:Name="lbl_text" Content="Yoolo" HorizontalAlignment="Left" Margin="483,49,0,0" VerticalAlignment="Top" Width="278"/>
+    </Grid>
+</Page>

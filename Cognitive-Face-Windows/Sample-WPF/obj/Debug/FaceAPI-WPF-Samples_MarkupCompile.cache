@@ -1,0 +1,20 @@
+﻿FaceAPI-WPF-Samples
+
+
+winexe
+C#
+.cs
+C:\Users\Minh Hoang\Source\Repos\Face_detection\Cognitive-Face-Windows\Sample-WPF\obj\Debug\
+ClientLibrary
+none
+false
+DEBUG;TRACE
+C:\Users\Minh Hoang\Source\Repos\Face_detection\Cognitive-Face-Windows\Sample-WPF\App.xaml
+91489142316
+
+13-1991513777
+90-20429205
+Controls\FaceBearDetectionPage.xaml;Controls\FaceGlassesDetectionPage.xaml;Controls\FaceHairDetectionPage.xaml;Controls\FaceFindSimilarPage.xaml;Controls\FaceGroupingPage.xaml;Controls\FaceiconDetectionPage.xaml;Controls\FaceVerificationPage.xaml;Controls\FaceDetectionPage.xaml;MainWindow.xaml;
+
+True
+

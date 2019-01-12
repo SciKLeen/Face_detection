@@ -1,0 +1,65 @@
+﻿<Page x:Class="Microsoft.ProjectOxford.Face.Controls.FaceGlassesDetectionPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:uc="clr-namespace:Microsoft.ProjectOxford.Face.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="360" d:DesignWidth="710" x:Name="FaceGlassesDetectionPane" MinHeight="360" Width="710" FontSize="14">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="96" />
+            <ColumnDefinition Width="314" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="54" />
+            <RowDefinition Height="45" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Left" Text="{Binding FaceGlassesDetectionDescription}" TextWrapping="Wrap"></TextBlock>
+        <Grid Width="300" Height="300" Grid.Column="0" Grid.Row="2" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="197*"/>
+                <ColumnDefinition Width="38*"/>
+                <ColumnDefinition Width="66*"/>
+            </Grid.ColumnDefinitions>
+            <ItemsControl HorizontalAlignment="Center" VerticalAlignment="Center" ItemsSource="{Binding ResultCollection, ElementName=FaceDetectionPane}" Panel.ZIndex="999" Height="{Binding MaxImageSizes, ElementName=FaceGlassesDetectionPane}" Width="{Binding MaxImageSizes, ElementName=FaceGlassesDetectionPane}" Margin="150,150,46.5,150">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Height="{Binding MaxImageSizes, ElementName=FaceDetectionPane}" Width="{Binding MaxImageSizes, ElementName=FaceGlassesDetectionPane}" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemContainerStyle>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="{Binding Left}" />
+                        <Setter Property="Canvas.Top" Value="{Binding Top}" />
+                    </Style>
+                </ItemsControl.ItemContainerStyle>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Rectangle Width="{Binding Width}" Height="{Binding Height}" Stroke="#FF26B8F4" StrokeThickness="1" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            <Image HorizontalAlignment="Center" VerticalAlignment="Center" Height="260" Width="{Binding MaxImageSizes, ElementName=FaceGlassesDetectionPane}" x:Name="ImageDisplay" Grid.ColumnSpan="3" Margin="0,0,0,40" >
+                <Image.Style>
+                    <Style TargetType="{x:Type Image}">
+                        <Setter Property="Source" Value="{Binding SelectedFile, ElementName=FaceGlassesDetectionPane}" />
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding SelectedFile, ElementName=FaceGlassesDetectionPane }" Value="{x:Null}">
+                                <Setter Property="Source" Value="/FaceAPI-WPF-Samples;component/Assets/default.jpg" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Image.Style>
+            </Image>
+        </Grid>
+        <Button Grid.Column="0" Grid.Row="1" Content="Choose Image" Width="300" Background="#2196f3" Foreground="White" BorderBrush="Transparent" HorizontalAlignment="Left" Click="LoadImage_Click" Height="35" VerticalAlignment="Top"/>
+        <TextBlock Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding DetectedResultsInText, ElementName=FaceGlassesDetectionPane}" />
+        <Grid Height="300" Grid.Column="2" Grid.Row="2" VerticalAlignment="Top" Margin="4,0,0,-39">
+            <Image x:Name="ImageGlassesDisplay" HorizontalAlignment="Center" VerticalAlignment="Center" Height="260" Width="{Binding MaxImageSizes, ElementName=FaceGlassesDetectionPane}" Margin="0,0,0,40" />
+        </Grid>
+        <Button Grid.Column="1" Grid.Row="2" Content="View" Width="76" Background="#2196f3" Foreground="White" BorderBrush="Transparent" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Margin="10,72,0,0" Click="Glasses_Click"/>
+    </Grid>
+</Page>
